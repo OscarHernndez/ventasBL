@@ -332,7 +332,7 @@
             this.Controls.Add(this.precioTextBox);
             this.Controls.Add(this.listadeProductosBindingNavigator);
             this.Name = "Form1";
-            this.Text = "Productos--";
+            this.Text = "Productos";
             ((System.ComponentModel.ISupportInitialize)(this.listadeProductosBindingNavigator)).EndInit();
             this.listadeProductosBindingNavigator.ResumeLayout(false);
             this.listadeProductosBindingNavigator.PerformLayout();
